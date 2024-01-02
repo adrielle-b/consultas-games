@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<div align="center">
+  <h1>GamesApp :joystick:</h1>
+</div>
+
+## Descrição
+Implementação de diversos métodos de manipulações a coleções existentes em um software que já teve o seu desenvolvimento iniciado. Além disso, desenvolvi diversas consultas LINQ e expressões Lambda para determinadas aplicações e desenvolvi uma parte de testes.
+
+
+## Habilidades
+
+* Desenvolver habilidades com relação a manipulação de coleções.
+* Desenvolver consultas LINQ e expressões Lambda para determinadas operações.
+* Aplicar um método de testes sobre coleções.
+* Interpretar as coleções de dados já existentes em um software.
+* Interpretar o funcionamento de um código já implementado.
